@@ -1,3 +1,3 @@
 Memorythegame
 =============
-LET THE WORK BEGGIN
+LET THE WORK BEGIN
