@@ -5,18 +5,18 @@ Jos värikuvat ovat eri niin kortit kääntyvät taas, alkuperäinen kuva ylösp
 Jos värikuvat ovat samat, pelaaja saa yhden pisteen  ja oikein arvotut kortit jäävät värikuva ylöspäin, eikä niitä pystyy valittaa enää. Pelaaja voittaa kun kaikki kortit ovat värikuva ylöspäin.
 Pisteet ovat myös näkyvillä pelin aikana
 Käyttäjät: Pelaaja ja kone
-Pelaajan toiminnot:
-Valitse valikoimasta itselleen sopivin vaihtoehto (Syöttää oma nimi)
-Valitse kortit
+Pelaajan toiminnot: 
+- Valitse valikoimasta itselleen sopivin vaihtoehto (Syöttää oma nimi)
+- Valitse kortit
 Koneen toiminnot:
-korttien tulostus
-korttien kääntäminen
-Laske pisteitta
+- korttien tulostus
+- korttien kääntäminen
+-Laske pisteitta
 
 Extra ideat jos aika riittää:
-#Voidaan tehdä valikoima missä on noin kolme vaihtoehtoa korttien lukumäärästä 
+* Voidaan tehdä valikoima missä on noin kolme vaihtoehtoa korttien lukumäärästä 
 	esim. 4x4, 8x8, 12x12
-#Voidaan tehdä valikoima missä valitaan värikuvien teemat.
+* Voidaan tehdä valikoima missä valitaan värikuvien teemat.
 	esim. Eläimet, Kukat, Autot, Naiset
-#Valikoima pelaajan määrästä esim. 1,2,3,4
+* Valikoima pelaajan määrästä esim. 1,2,3,4
  Jos pelaajia on enemmän kuin yksi, pelaajat pelaavat vuorotellen ja voittaja on se joka sai enemmän pisteitä.
