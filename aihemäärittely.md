@@ -8,7 +8,8 @@ Jos värikuvat ovat samat, pelaaja saa yhden pisteen  ja oikein arvotut kortit j
  
  Pelaajan toiminnot: 
 - Valitse valikoimasta itselleen sopivin vaihtoehto (Syöttää oma nimi)
-- Valitse kortit
+- Valitse kortit 
+
  Koneen toiminnot:
 - korttien tulostus
 - korttien kääntäminen
