@@ -4,11 +4,11 @@ Aihe: Muistipeli. Toteutetaan klassinen muistipeli, jonka avulla voidaan treenat
 Jos värikuvat ovat eri niin kortit kääntyvät taas, alkuperäinen kuva ylöspäin ja pelaaja ei saa mitään pisteitä.
 Jos värikuvat ovat samat, pelaaja saa yhden pisteen  ja oikein arvotut kortit jäävät värikuva ylöspäin, eikä niitä pystyy valittaa enää. Pelaaja voittaa kun kaikki kortit ovat värikuva ylöspäin.
 Pisteet ovat myös näkyvillä pelin aikana
-Käyttäjät: Pelaaja ja kone
-Pelaajan toiminnot: 
+ Käyttäjät: Pelaaja ja kone
+ Pelaajan toiminnot: 
 - Valitse valikoimasta itselleen sopivin vaihtoehto (Syöttää oma nimi)
 - Valitse kortit
-Koneen toiminnot:
+ Koneen toiminnot:
 - korttien tulostus
 - korttien kääntäminen
 -Laske pisteitta
